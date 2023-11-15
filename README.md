@@ -5,6 +5,7 @@ For a Spotify developer account, you need an account at Spotify. If you don’t 
 
 # Step 2: Go to Your Spotify Developer Dashboard
 Once you have created an account at Spotify, you need to log in to your Spotify developer dashboard. As you will be using this developer account for the first time, sign the agreement and verify your email. After these steps, we can move to the next step.
+
 link: https://developer.spotify.com/dashboard
 
 # Step 3: Create An App
