@@ -19,6 +19,7 @@ link: https://developer.spotify.com/dashboard
 # Step 5: Copy Your Client ID and Client Secret
 click settings and redirect to “View client secret”, you will see your password. Copy your credentials so that you can use them while building a Music Recommendation System using Python.
 
-# Step 6: Create a main.ipynb or main.py file 
+# Start Coding
 
-# Step 7: Code
+# Sample output
+![image](https://github.com/Logeshvar2004/Music-Recommendation-system-using-Spotify-API/assets/102981016/feb0d0d6-e81e-46ad-b50d-d8275b32d75e)
